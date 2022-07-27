@@ -86,4 +86,129 @@ hr{
     font-style: italic;
     font-size: 55px;
     font-weight: 500px;
-    margin-top: 10px;
+        margin-top: 10px;
+}
+.servicing{
+    display: flex;
+     margin: 55px; 
+    /* padding: 100px; */
+    line-height: 50px;
+    text-align: center;
+    justify-content: space-between;
+}
+.edd{
+    display: flex;
+}
+.ls{
+    margin-top: 85px;
+    margin-left: 50px;
+}
+.lst{
+    margin-top: 85px;
+    margin-left: 5px;
+}
+.service{
+    font-style: italic;
+    font-weight: 500;
+    font-size: 55px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.btns{
+    width: 294px;
+    height: 63px;
+    background-color: #FC3C3C;
+    color: #FFFFFF;
+    
+}
+.lass{
+    margin-left: 370px;
+   
+
+}
+.btns1{
+    width: 294px;
+    height: 63px;
+    margin-left: 10px;
+    color: #FC3C3C;
+    background-color: #E5E5E5;
+}
+h4{
+    font-style: italic;
+    font-weight: 700;
+    font-size: 20px;
+}
+.reals{
+    text-align: center;
+    margin-top: 50px;
+}
+.real{
+    font-style: italic;
+    font-weight: 500px;
+    font-size: 55px;
+    margin-bottom: 20px;
+
+}
+.imp{
+    display: flex;
+     margin: 20px;
+    padding: 25px;
+    justify-content: space-between;
+    line-height: 10px;
+}
+.tip{
+    width: 390px;
+    height: 462px;
+}
+.tin{
+    font-weight: 600;
+    font-size: 24px;
+    font-style: italic;
+    text-align: center;
+    margin: 20px;
+    line-height: 10px;
+}
+.tom{
+    text-align: center;
+    line-height: 30px;
+}
+.vew{
+    width: 310px;
+    height: 63px;
+    background-color: #FC3C3C;
+    color: #FFFFFF;
+    margin-left: 540px;
+    /* margin-top: 50px; */
+}
+.vid{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 130px;
+    margin-top: 130px;
+}
+.vendor{
+    display: flex;
+    padding: 30px;
+    justify-content: space-between;
+    margin-right: 25px;
+}
+.of{
+    margin-top: 70px;
+    /* margin-left: 50px; */
+     margin-right: 140px; 
+}
+.doors{
+    font-size: 55px;
+    font-style: italic;
+    font-weight: 500;
+}
+.milli{
+    line-height: 30px;
+}
+.all{
+    width: 337px;
+    height: 63px;
+    background-color: #FC3C3C;
+    color: #FFFFFF;
+    margin-left: 30px;
+}
