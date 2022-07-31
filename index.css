@@ -337,3 +337,12 @@ h4{
     border: #A3A3A3;
 }
 
+.footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+    padding-top: 40px;
+    
+    background-color:#333333;
+    color: #FFFFFF;
+}
