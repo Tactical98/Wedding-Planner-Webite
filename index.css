@@ -11,7 +11,7 @@
 }
 .p{
     font-style: italic;
-    margin-left: 10px;
+    margin-left: 35px;
 }
 ul{
     display: flex;
@@ -341,8 +341,21 @@ h4{
     display: flex;
     justify-content: space-between;
     margin-top: 60px;
-    padding-top: 40px;
+    /* padding-top: 40px; */
+    padding: 20px;
     
     background-color:#333333;
     color: #FFFFFF;
+}
+.span{
+    font-style: italic;
+    color: #FC3C3C;
+}
+.crown{
+    height: 22px;
+    width: 22px;
+    margin-bottom: -3px;
+}
+.cr1{
+    font-style: italic;
 }
